@@ -1,9 +1,9 @@
-package com.company;
+package com.cunnie;
 
-import static com.company.Main.hasMatchingNegative;
+import static com.cunnie.MatchingNegativeFinder.hasMatchingNegative;
 import static org.junit.jupiter.api.Assertions.*;
 
-class MainTest {
+class MatchingNegativeFinderTest {
 
     @org.junit.jupiter.api.Test
     void returnsFalseWithEmptyArray() {

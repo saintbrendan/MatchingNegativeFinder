@@ -1,11 +1,6 @@
-package com.company;
+package com.cunnie;
 
-public class Main {
-
-    public static void main(String[] args) {
-        // write your code here
-    }
-
+public class MatchingNegativeFinder {
     public static boolean hasMatchingNegative(int[] a) {
         int i = 0;
         int j = a.length - 1;
